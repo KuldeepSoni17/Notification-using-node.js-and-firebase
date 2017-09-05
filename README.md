@@ -11,3 +11,4 @@ How to use:-
 6.Move server.js in that directoryyo
 7.Write your credentials there which you got from firebase-console(Admin SDK in service account)
 8.Run localhost:(whatever port number you set in listen in server.js) and hope you're receiving notifications.
+
